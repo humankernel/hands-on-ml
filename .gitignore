@@ -2,3 +2,4 @@
 .vscode
 datasets
 venv
+*.pkl
