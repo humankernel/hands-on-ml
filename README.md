@@ -1,9 +1,1 @@
-
-# Housing Bay Prices
-
-## skills gained
-
-- 
-
-
-## Augmented 
+# Machine Learning - Practice
